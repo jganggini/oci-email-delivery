@@ -48,7 +48,7 @@ BEGIN
               <tr>
                 <td style="min-width:700px;">
                   <div style="padding:20px 0 0 0; background:#F7F7F7;">
-                    <img style="display:block;" src="./img/banner_embedded.png" width="100%" height="100%"/>
+                    <img style="display:block;" src="https://raw.githubusercontent.com/jganggini/oci-email-delivery/main/send-email-by-adw-and-oac/src/img/banner_email.png" width="100%" height="100%"/>
                   </div>
                   <div style="color:#8E8E8E; border:1px #12161c solid; border-top:0px; padding:10px; font-family:Verdana; font-size:12px;">
                     <div style="margin:0 0 10px 5px; background:#F3F3F3; padding:10px; font-size:12px; min-height:15px;">
