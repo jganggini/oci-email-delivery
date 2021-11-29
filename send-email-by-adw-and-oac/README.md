@@ -55,13 +55,23 @@ Es por ello que el equipo de desarrollo necesita habilitar los servicios necesar
 El siguiente diagrama ilustra esta arquitectura de referencia:
 
 <p align="center">
-    <img src="img/img-101.png" alt="Logo" width="600">
+    <img src="img/img-101.png" width="800">
 </p>
 
 <!-- Config -->
 ## Config
 
-Describe cómo enviar correo usando UTL_SMTP en Autonomous Database. [Sending Mail with Email Delivery on Autonomous Database](https://docs.oracle.com/en/cloud/paas/autonomous-database/adbsa/smtp-send-mail.html#GUID-F2C7AD19-3B24-4DF0-9293-78FD98888CD0)
+*   Describe cómo enviar correo usando UTL_SMTP en Autonomous Database. [Sending Mail with Email Delivery on Autonomous Database](https://docs.oracle.com/en/cloud/paas/autonomous-database/adbsa/smtp-send-mail.html#GUID-F2C7AD19-3B24-4DF0-9293-78FD98888CD0)
+
+*   `BI Services Administrator\BI Content Author`: Para utilizar las opciones de desarrollador, debe tener privilegios de BI Services Administrator o de BI Content Author.
+
+    Para más información: [Developer Reference](https://docs.oracle.com/en/cloud/paas/analytics-cloud/acubi/developer-reference.html#GUID-F7C0D80F-833F-446E-9DF1-11E2EEC07422)
+
+  <p align="center">
+    <a href="https://youtu.be/Vqdes2glq6w">
+      <img src="img/img-102.gif" width="800">
+    </a>
+  </p>
 
 
 <!-- Parameters -->
